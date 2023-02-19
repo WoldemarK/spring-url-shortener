@@ -6,7 +6,7 @@ This project demonstrates the use of Spring Boot 2.0 and Redis to build a URL sh
   * host: localhost
   * port: 6379
 
-### Swagger-ui
+### API Swagger-ui
 'http://localhost:8081/swagger-ui/index.html'
 
 ### Execution
